@@ -1,0 +1,146 @@
+.............mohab elsaid tips.............
+
+float left  يعني اطلع فوق و روح علي الشمال 
+
+over flow : auto   بيخلي ال div اللرييسي يبان لو عامل لي div جواه flow 
+
+🔹 src
+
+معناها: هات المحتوى ده واعرضه هنا
+
+🔹 href
+
+معناها: روح للمكان ده
+
+
+	src	href
+	جِيب وحط	اربط / روح
+
+src = Component يتم تحميله داخل النظام
+
+href = Reference يوصلك لمكان تاني
+
+background-postion : value; / A Css properity that is used to define the place of the image.
+
+css value used  to give a background to the element::red عشان هو عايز value
+
+
+What is the purpose of the div tag?::To create a division in a document.
+,. To style a division with CSS,To create a div container
+
+Which tag is used to create a dropdown in HTML Form?::<select> القاءمه الي بتنزل و بتختار منها 
+
+to choose Gender you have to use ..input... Tag ?
+
+ Which character is used to represent the closing of a tag in HTML?::/
+
+
+attribuot ,, tag,,porperty,,declarition
+
+Tag	HTML	العنصر نفسه
+Attribute	HTML	معلومة إضافية جوه التاج
+Property	CSS	حاجة بنغير بيها الشكل
+Declaration	CSS	Property + Value
+
+عشان اخلي كلل الكلام جمب بعض displiy inline 
+لاكن لو div float left
+
+
+ Which of the following is a characteristic of block-level elements in HTML?
+>>>>>>> They take up the full width available.
+
+What is the correct CSS syntax to set a margin of 10 pixels for the top and right, and 20 pixels for the left and bottom sides of an element?
+>>>>>>>>>>margin: 10px 10px 20px 20px;
+
+selector { ........................  ; }
+>>>>>>>declarition
+
+semi colon (;) is obligated to be given to all properities inside element  ? noo
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+font-style >>>defulat:normal
+
+font-wight:100-400 >>> norml
+font-wight:700-900>>>bold
+
+لو عابز خط عجببني مش في ال سي اس اس بجيبو من google font اروح ال embed code
+
+font: الترتيب style weight size family
+
+
+
+. What is the purpose of the <del> tag in HTML?
+>>>>>>> To indicate deleted or removed text
+
+Choose the correct HTML element to define emphasized text
+>>>>>em معنها كده اصلا 
+
+
+Choose the correct HTML tag to create a place for paragraph .
+>>>>>>textarea
+
+rgba(red,green,blue,alpha)
+alpha>>>شفافيه
+
+opacity:0      \\\\     visabilty:hidden       \\\\\\      display:none
+بيفضل موجود  بس شفاف
+                    مخفي بس ليي مكان في الصفحه 
+                                                  بيخليه اكنو مش موجود من الhtmlاصلا           
+
+c-tap >>>>بكتب كومنت لواحدو    
+
+rgba(0,0,0)اسود 
+
+
+/* hero imag */
+>>>>postion:absolute 
+>>>>top:50%
+>>>>left:50%
+>>>>transform:translate(-50%, -50%)
+
+seudo classes:
+>>> hover , active , fouces
+
+seudo elements :
+>> before , after
+
+
+الروموز تعامل معمله النص icons
+
+
+لما اعمل countiener مدلوش غير 
+>>>>>width : 80%
+>>>>>margin : auto
+بسسس
+
+ال icone بتتوسطنن في نص الي انت مدهولها هي 
+
+The special formatting codes in HTML document used to present content are
+>>>>tag
+
+لما يكون عندي كذا حاجه مع بعض متوسطنين بطريقه معينه ببتدي افكر في ال contanier اهم حاجه ان ال كونتانر مش بياخد غير width:%,margin:auto
+
+بعد كده لازم احط parentعشان  لو عايز اظبط عليه postion 
+
+اقسم الهشتغل علي لي سكشنات عشان اعرف انصقهم مع بعض و احط كل سكشن في div 
+
+طلاما مجموعت icons ليهم نفس الاداء و ليهم نفس التاءثير لازم تحطهم في div
+
+margin-left:auto بتروح لي ااول اليمين
+
+after , befor>>
+لو عايزهم يظهرو من فوق لتحت الوضع الابتداءي يكون width:100%
+لو عايزهم يبداءو من نقطه معينه يبقي استخدم left - right
+طلاما هينتشر من نقطه width:0-height:0
+
+ديما المرحله النهاءسه لل befor , after width :100%,hiegth:100%
+
+ديما في البرمجه +++++ يمين او تحت 
+-------شمال او فوق 
+
+Which value removes an element completely from layout?
+>>>>>display:none;       hidden فليو بس مش بتعمل كده
+
+
+semantics elements 
+>>>>tages ليها معني   بس هما inline 
