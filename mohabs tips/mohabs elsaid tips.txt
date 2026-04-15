@@ -144,3 +144,6 @@ Which value removes an element completely from layout?
 
 semantics elements 
 >>>>tages ليها معني   بس هما inline 
+
+
+animation: name,duration.,timing function,delay,iteration-count,dircation,fill-mode,play-state

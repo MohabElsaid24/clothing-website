@@ -1,4 +1,129 @@
-div{
-    background-color: red;
-    color: black;
+.div1{
+    width: 200px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    animation-name: run;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+@keyframes run {
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 1720px;
+    }
+}
+.div2{
+    width: 200px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    top: 100px;
+    animation-name: run;
+    animation-duration: 3s;
+    animation-delay: 4s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    animation-direction: reverse;
+}
+@keyframes run {
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 1720px;
+    }
+}
+.div3{
+    width: 200px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 200px;
+    animation-name: run;
+    animation-duration: 3s;
+    animation-delay: 7s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+@keyframes run {
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 1720px;
+    }
+}
+.div4{
+    width: 200px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    top: 300px;
+    animation-name: run;
+    animation-duration: 3s;
+    animation-delay: 10s;
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    animation-timing-function: linear;
+}
+@keyframes run {
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 1720px;
+    }
+}
+.div5{
+    width: 200px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 400px;
+    animation-name: run;
+    animation-duration: 3s;
+    animation-delay: 13s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+@keyframes run {
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 1720px;
+    }
+}
+.div6{
+    width: 200px;
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    top: 500px;
+    animation-name: run;
+    animation-duration: 3s;
+    animation-delay: 16s;
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+    animation-timing-function: linear;
+}
+@keyframes run {
+    0%{
+        left: 0;
+    }
+    100%{
+        left: 1720px;
+    }
 }
