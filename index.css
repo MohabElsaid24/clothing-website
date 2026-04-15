@@ -398,12 +398,13 @@
 }
 .offer-page-div i{
     color: #1E2A3E;
+    padding-left: 5px;
 }
 .offer-page-div:hover i{
     color: rgb(117, 20, 20);
 }
 .offer-page-div h2{
-padding: 10px 20px;
+padding: 10px 25px;
 color: #1E2A3E;
 }
 .offer-page-div p{
@@ -865,10 +866,10 @@ color: #6B6B6B;
     color: #C7A252;
 }
 .news-page-icones{
-    float: left;
-    text-align: center;
-    margin-left: 35px;
+    display: inline-block;  
+    margin: 0 10px;         
 }
+
 .news-page-recent:hover .news-page-icones{
     color: #2b2480;
 }
@@ -925,8 +926,7 @@ color: #6B6B6B;
     overflow: hidden;
 }
 .end-page-icones{
-    margin: auto;
-    margin-left: 40%;
+text-align: center;
 }
 .end-page-icones i{
     background-color: blue;
