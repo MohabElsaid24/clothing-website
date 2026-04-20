@@ -24,16 +24,17 @@
 .header-space{
     float: left;
     background-color: white;
-    width: 200px;
-    margin-left: 50px;
+    width: 250px;
+    margin-left: 70px;
     margin-top: 15px;
-    height: 20px;
+    height: 30px;
     border-radius: 20px;
 }
 .header-space .icone1{
     position: absolute;
-    margin-left: -30px;
+    margin-left: -40px;
     margin-top: 2px;
+    font-size: 24px;
 }
 .header-space .icone1:hover{
     background-color: transparent;
@@ -41,7 +42,8 @@
 .header-space .icone2{
     position: absolute;
     margin-left: 10px;
-    margin-top: 2px;
+    margin-top: 3px;
+    font-size: 24px;
 }
 .header-space .icone2:hover{
     background-color: transparent;
@@ -58,6 +60,7 @@
     position: relative;
 }
 .header ul li a{
+    font-size: 24px;
     text-decoration: none;
     color: #1A1A1A;
     text-transform: capitalize;
@@ -97,6 +100,7 @@
 .dropdown li {
     padding: 10px;
     transition: 0.3s;
+    font-size: 24px;
 }
 .dropdown li:hover {
     background: #f2f2f2;
@@ -118,20 +122,23 @@
 }
 .home-page-text h1{
     color: #1E2A3E;
+    font-size: 55px;
 }
 .home-page-text p{
     padding-top: 10px;
     color: #0f192b;
+    font-size: 24px;
 }
 .home-page-text button{
-    width: 80px;
-    height: 40px;
+    width: 120px;
+    height: 50px;
     border-radius: 20px;
     border: none;
     margin-top: 10px;
     text-transform: capitalize;
     background-color: #1E2A3E;
     color: white;
+    font-size: 20px;
 }
 .home-page-text button:hover{
     opacity: 0.5;
@@ -155,10 +162,11 @@
 }
 .welcome-page-title h2{
     color: #1E2A3E;
+    font-size: 45px;
 }
 .welcome-page-cleardiv{
     background-color: #D4AF37;
-    width: 90px;
+    width: 130px;
     height: 1.5px;
     margin: auto;
     margin-top: 8px;
@@ -200,6 +208,7 @@
 .welcome-page-section i{
     margin: 20px 0px;
     color: #C7A252;
+    font-size: 24px;
 }
 .welcome-page-section:hover i{
     color: #1E2A3E;
@@ -207,6 +216,7 @@
 .welcome-page-section h2{
     margin: 0px 0px 20px;
     color: #1E2A3E;
+    font-size: 35px;
 }
 .welcome-page-section:hover h2{
     color: #C7A252;
@@ -214,6 +224,7 @@
 .welcome-page-section p{
     margin: 20px 0px;
     color: #6B6B6B;
+    font-size: 24px;
 }
 .welcome-page-section:hover p{
     color:  #4A4A4A;
@@ -221,6 +232,7 @@
 .welcome-page-section h5{
     margin: 0px 0px 10px;
     color: #1E2A3E;
+    font-size: 20px;
 }
 .welcome-page-section:hover h5{
     color: #081a3a;
@@ -243,10 +255,11 @@
     padding-top: 75px;
     text-transform: capitalize;
     color: #1E2A3E;
+    font-size: 45px;
 }
 .featured-page-title div{
     background-color: #C7A252;
-    width: 75px;
+    width: 120px;
     height: 2px;
     margin: auto;
     margin-top: 8px;
@@ -301,10 +314,12 @@
     padding-bottom:10px ;
     color: #6B6B6B;
     text-align: center;
+    font-size: 30px;
 }
 .featured-page-img p{
     padding-bottom:10px ;
     color: #6B6B6B;
+    font-size: 24px;
 }
 .featured-page-img i{
     color: #6B6B6B;
@@ -358,9 +373,10 @@
     text-transform: capitalize;
     padding-top: 75px;
     color:  #1E2A3E;
+    font-size: 45px;
 }
 .offer-page-cleardiv{
-    width: 75px;
+    width: 120px;
     height: 2px;
     background-color: #C7A252;
     margin: auto;
@@ -399,17 +415,20 @@
 .offer-page-div i{
     color: #1E2A3E;
     padding-left: 5px;
+    font-size: 24px;
 }
 .offer-page-div:hover i{
     color: rgb(117, 20, 20);
 }
 .offer-page-div h2{
-padding: 10px 25px;
+padding: 10px 0 10px 35px;
 color: #1E2A3E;
+font-size: 30px;
 }
 .offer-page-div p{
 padding: 10px 20px;
 color: #6B6B6B;
+font-size: 24px;
 }
 .offer-page-div:hover h2{
     color: rgb(117, 20, 20);
@@ -449,9 +468,10 @@ color: #6B6B6B;
 .choose-us-page-text h2{
     text-transform: capitalize;
     color: #1E2A3E;
+    font-size: 40px
 }
 .choose-us-page-cleardiv{
-    width: 40px;
+    width: 70px;
     height: 2px;
     background-color: #c0963b;
     margin-top: 7px;
@@ -460,16 +480,19 @@ color: #6B6B6B;
     padding-top: 20px;
     padding-bottom: 20px;
     color: #6B6B6B;
+    font-size: 24px;
 }
 .choose-us-page-feature-item{
     margin-bottom: 20px;
 }
 .choose-us-page-feature-item i{
     display: inline-block;
+    font-size: 24px;
 }
 .choose-us-page-feature-item h5{
     display: inline-block;
     color: #4A4A4A;
+    font-size: 24px;
 }
 .choose-up-page-img{
     float: right;
@@ -477,12 +500,12 @@ color: #6B6B6B;
     padding-left: 100px;
 }
 .choose-up-page-img img{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 350px;
     display: block;
 }
 .choose-up-page-checked{
-    margin-left: 140px;
+    margin-left: 175px;
     margin-top: 7px;
 }
 .choose-up-page-img span{
@@ -530,6 +553,7 @@ color: #6B6B6B;
     width: 25%;
     text-align: center;
     float: left;
+    font-size: 20px;
 }
 /* end of detalis-page ////////////////////////////////////// */
 .pricing-page{
@@ -545,9 +569,10 @@ color: #6B6B6B;
     text-transform: capitalize;
     padding-top: 75px;
     color: #1E2A3E;
+    font-size: 45px;
 }
 .pricing-page-cleardiv{
-        width: 75px;
+        width: 120px;
     height: 2px;
     background-color: #C7A252;
     margin: auto;
@@ -564,7 +589,7 @@ color: #6B6B6B;
 .pricing-page-price{
     border: 2px solid #C7A252;
     width: 30%;
-    height: 350px;
+    height: 400px;
     text-align: center;
     float: left;
     position: relative;
@@ -589,10 +614,12 @@ color: #6B6B6B;
 .pricing-page-price h3{
     padding-top: 30px;
     color: #1E2A3E;
+    font-size: 30px;
 }
 .pricing-page-price h5{
     padding-top: 30px;
     color: #6B6B6B;
+    font-size: 24px;
 }
 .pricing-page-circleprice{
     width: 70px;
@@ -609,15 +636,16 @@ color: #6B6B6B;
 }
 .pricing-page-price button{
     margin-top: 20px;
-    width: 150px;
+    width: 180px;
     border: 1px solid red;
     border: none;
-    border-radius: 10px;
-    height: 23px;
+    border-radius: 15px;
+    height: 27px;
     position: relative;
     background-color: #1E2A3E;
     color: #FFFFFF;
     z-index: 5;
+    font-size: 20px;
 }
 .pricing-page-price button:hover{
     background-color: f#152135;
@@ -673,15 +701,18 @@ color: #6B6B6B;
 .stuff-page-title h2{
     text-transform: capitalize;
     color: #2f3949;
+    font-size: 30px;
 }
 .stuff-page-title h4{
     text-transform: capitalize;
     color: #C7A252;
+    font-size: 24px
 }
 .stuff-page-info h5{
     padding-top: 15px;
     display: inline-block;
     color:  #9c8787;
+    font-size: 20px;
 }
 /* end of stuff-page ////////////////////////////////////// */
 .team-page{
@@ -697,9 +728,10 @@ color: #6B6B6B;
     text-transform: capitalize;
     padding-top: 75px;
     color: #1E2A3E;
+    font-size: 45px;
 }
 .team-page-cleardiv{
-    width: 75px;
+    width: 120px;
     height: 2px;
     background-color: #C7A252;
     margin: auto;
@@ -745,21 +777,23 @@ color: #6B6B6B;
     background-repeat: no-repeat;
     background-position: center;
     object-fit: contain;
-    width: 250px;
-    height: 200px;
+    width: 350px;
+    height: 250px;
+    margin-top: 10px;
 }
 .team-page-icone{
-    padding-top: 17px;
+    padding-top: 10px;
     visibility: hidden;
 }
 .team-page-teams i{
     display: block;
-    margin-left: 88%;
+    margin-left: 91.3%;
     width: 20px;
     background-color: blue;
     color: white;
     width: 30px;
-    line-height: 35px;
+    line-height: 45px;
+    font-size: 24px;
     text-align: center;
     visibility: hidden;
 }
@@ -771,12 +805,14 @@ color: #6B6B6B;
     margin-bottom: 8px;
     text-transform: capitalize;
     color: #1E2A3E;
+    font-size: 30px;
 }
 .team-page-teams p{
     margin-bottom: 10px;
     text-transform: uppercase;
     font-size: 12px;
     color: #6B6B6B;
+    font-size: 20px;
 }
 .team-page-teams:hover p{
     color: #1E2A3E;
@@ -804,9 +840,10 @@ color: #6B6B6B;
     text-transform: capitalize;
     padding-top: 75px;
     color: #1E2A3E;
+    font-size: 45px;
 }
 .news-page-cleardiv{
-    width: 75px;
+    width: 120px;
     height: 2px;
     background-color: #C7A252;
     margin: auto;
@@ -853,14 +890,16 @@ color: #6B6B6B;
     background-repeat: no-repeat;
     background-position: center;
     object-fit: contain;
-    width: 250px;
-    height: 200px;
+    width: 350px;
+    height: 250px;
     position: relative;
     z-index: 10;
+    margin-top: 10px;
 }
 .news-page-icones h5{
     display: inline;
     color: #1E2A3E;
+    font-size: 20px;
 }
 .news-page-recent:hover h5{
     color: #C7A252;
@@ -878,6 +917,7 @@ color: #6B6B6B;
     padding: 15px 0;
     margin-top: 15px;
     text-transform: capitalize;
+    font-size: 30px;
 }
 .news-page-recent:hover h3{
     color: #C7A252;
@@ -886,7 +926,8 @@ color: #6B6B6B;
     color: #6B6B6B;
     text-transform: capitalize;
     font-size: 12px;
-    padding: 0 5px;
+    padding: 0 10px;
+    font-size: 24px;
 }
 .news-page-recent:hover p{
     color: #6B6B6B;
@@ -894,6 +935,7 @@ color: #6B6B6B;
 .news-page-readmore{
     color: #1E2A3E;
     padding:15px 0 ;
+    font-size: 24px;
 }
 .news-page-recent:hover .news-page-readmore{
     color: #C7A252;
