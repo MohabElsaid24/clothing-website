@@ -147,3 +147,10 @@ semantics elements
 
 
 animation: name,duration.,timing function,delay,iteration-count,dircation,fill-mode,play-state
+
+grid ::::::::    coloum:width       row:hieght
+grid-templete-columns: 1fr 2fr 2fr 1fr     كده في اتنين ضعف بعض و اتنين قد بعض 
+grid-auto-rows:minmax(200px,auto) 
+grid-gab: "row","coloum" 
+grid-colume-start=2;    grid-colume-end=4;   هو كدخ هياخد اتنين و تلاته
+grid-colume :2/4 كده زي الي فوقيها
